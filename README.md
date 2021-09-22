@@ -6,15 +6,18 @@
 ## Code for: "Skeleton-Graph: Long-Term 3D Motion Prediction From 2D Observations Using Deep Spatio-Temporal Graph CNNs"
 Read the full paper [here](https://arxiv.org/pdf/2109.10257.pdf)
 
-
+<div align='center'>
+<img src="img/SkeletonGraphModel.png"></img>
+</div>
+<br />
 
 #### Code Instructions: 
-##### Environment 
+#### Environment 
 Python3
 
 We used pipreqs to generate the requirements.txt, thus we have the minimal packages needed.
 
-##### Code structure 
+#### Code structure 
 * train.py //For training and evaluating the model 
 
 * utils.py //For evaluation metrics
@@ -31,7 +34,7 @@ We used pipreqs to generate the requirements.txt, thus we have the minimal packa
 
 * To obtain the PROX dataset please check: https://prox.is.tue.mpg.de/
 
-##### Running the code for training and evaluation
+#### Running the code for training and evaluation
 
 We mainly use a .sh files to execute multiple expriements in parallel. 
 
