@@ -3,7 +3,7 @@
 #### The University of Texas at Austin
 #### *To appear in the The ROAD Challenge: Event Detection for Situation Awareness in Autonomous Driving ICCV 2021 Workshop
 
-## Code for: "Skeleton-Graph: Long-Term 3D Motion Prediction From 2D Observations Using Deep Spatio-Temporal Graph CNNs"
+## Code for: "Skeleton-Graph: Long-Term 3D Motion Prediction From 2D Observations Using Deep Spatio-Temporal Graph CNNs", ICCV 2021 ROAD
 Read the full paper [here](https://arxiv.org/pdf/2109.10257.pdf)
 
 <div align='center'>
