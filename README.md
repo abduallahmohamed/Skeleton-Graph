@@ -67,6 +67,16 @@ Match the frame you want to visualize, and load the corresponding line-set and p
 
 Notice: The drawing window is disabled in jupyter notebook.
 
+Citation: 
+```
+@InProceedings{Mohamed_2021_ICCV_Workshops,
+author = {Mohamed, Abduallah and Chen, Huancheng and Wang, Zhangyang and Claudel, Christian},
+title = {Skeleton-Graph: Long-Term 3D Motion Prediction From 2D Observations Using Deep Spatio-Temporal Graph CNNs},
+booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops},
+month = {Oct},
+year = {2021}
+}
+```
 
 
 
