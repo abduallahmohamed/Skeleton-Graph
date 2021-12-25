@@ -69,12 +69,22 @@ Notice: The drawing window is disabled in jupyter notebook.
 
 Citation: 
 ```
-@InProceedings{Mohamed_2021_ICCV_Workshops,
-author = {Mohamed, Abduallah and Chen, Huancheng and Wang, Zhangyang and Claudel, Christian},
-title = {Skeleton-Graph: Long-Term 3D Motion Prediction From 2D Observations Using Deep Spatio-Temporal Graph CNNs},
-booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops},
-month = {Oct},
-year = {2021}
+@article{DBLP:journals/corr/abs-2109-10257,
+  author    = {Abduallah Mohamed and
+               Huancheng Chen and
+               Zhangyang Wang and
+               Christian G. Claudel},
+  title     = {Skeleton-Graph: Long-Term 3D Motion Prediction From 2D Observations
+               Using Deep Spatio-Temporal Graph CNNs},
+  journal   = {CoRR},
+  volume    = {abs/2109.10257},
+  year      = {2021},
+  url       = {https://arxiv.org/abs/2109.10257},
+  eprinttype = {arXiv},
+  eprint    = {2109.10257},
+  timestamp = {Mon, 27 Sep 2021 15:21:05 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2109-10257.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```
 
