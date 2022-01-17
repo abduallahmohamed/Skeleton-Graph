@@ -33,6 +33,8 @@ We used pipreqs to generate the requirements.txt, thus we have the minimal packa
 * To obtain the GTAIM dataset please check: https://github.com/ZheC/GTA-IM-Dataset#requesting-dataset 
 
 * To obtain the PROX dataset please check: https://prox.is.tue.mpg.de/
+* * PROX keypoints are zipped under PROX/PROX/keypoints.zip, this is important for results comparison and reproduction
+* * For PROX, you will mainly need the recordings folder from their website
 
 #### Running the code for training and evaluation
 
